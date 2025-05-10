@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, je suis Erdem</h1>
-<h3 align="center">Auditeur chez EY • Futur expert-comptable • Développeur en devenir</h3>
+<h3 align="center">Auditeur en alternance • Développeur en devenir</h3>
 
 ---
 
