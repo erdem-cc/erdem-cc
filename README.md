@@ -3,7 +3,7 @@
 
 ---
 
-### 👨‍💻 À propos de moi
+### À propos de moi
 
 - 🎯 Auditeur en alternance, en pleine préparation du **DSCG**
 - 💻 Je me forme activement au **développement web full-stack**
@@ -11,7 +11,7 @@
 
 ---
 
-### 🚀 Mes projets récents
+### Mes projets récents
 
 - 🌦️ [WeatherApp](https://github.com/erdem-cc/weatherapp) : météo en temps réel avec géolocalisation, skeleton loaders, responsive, et icônes dynamiques jour/nuit
 - ✏️ [Blog](https://github.com/erdem-cc/blog) : template d'un blog avec possibilité de modification, d'ajout et suppression d'articles responsives.
@@ -21,7 +21,7 @@
 
 ---
 
-### 🧰 Mes outils préférés
+### Mes outils
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js)
@@ -34,7 +34,7 @@
 
 ---
 
-### 📈 Stats GitHub
+### Stats GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=erdem-cc&show_icons=true&theme=midnight-purple" alt="erdem-cc stats"/>
