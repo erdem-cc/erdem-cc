@@ -30,3 +30,14 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=flat&logo=css3)
 ![Express](https://img.shields.io/badge/-Express-000?style=flat&logo=express)
+![EJS](https://img.shields.io/badge/-EJS-000?style=flat&logo=ejs)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&logo=mongodb)
+![Figma](https://img.shields.io/badge/-Figma-000?style=flat&logo=figma)
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=erdem-cc&show_icons=true&theme=midnight-purple" alt="erdem-cc stats"/>
+</p>
